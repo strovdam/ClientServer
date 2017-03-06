@@ -1,0 +1,35 @@
+Projekt: "Vorhaben, das im wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist„ Zielvorgabe, Begrenzung, Abgrenzung gegen andere Vorhaben, Organisation
+
+Business Case: "Umschreibt, wie und in welchem Zeitraum seine Ergebnisse dem Unternehmen Gewinn bringen." (Überblick, Definition, Kostenposition...)
+
+Projektmanagement: Managementaufgabe umfasst Projektdefinition, -planung, -durchführung und -abschluss, mit dem Ziel Risiken zu begrenzen, Chancen zu nutzen und Projektziele effizient zu erreichen
+	Gesamthafte, fachgebietsübergreifende, projektaufgabenbezogene Koordination der Planung (Projektvorbereitung) und Koordination der Durchführung (Projektsteuerung) von Projekten zur Erreichung der 		Projektziele Leistung, Termin, Kosten und Qualität (Produkt, Prozess, Projekt)
+	Schlüsselworte: fachgebietsübergreifend, Projektvorbereitung, Projektsteureung, Leistung, Termin, Kosten, Qualität
+
+Projektbudget: Summe der finanziellen Mittel, die Finanzgeber einem Projekt zur Verfügung stellen
+
+Qualitätsmanagement: Alle Tätigkeiten, Führungsaufgaben und Methoden die zur Planung, Sicherung, Verbesserung und Prüfung der Qualität eines Produktes oder Dienstleistung gehören.
+
+Soft Skills: Fähigkeiten, die nicht objektiv bewertet werden können.
+
+Vorgang (Activity): Ein Ablaufelement, das ein bestimmtes Geschehen unter Angabe einer Dauer und Abhängigkeiten von anderen Vorgängen darstellt und von Menschen oder Maschinen ausgeführt wird
+
+Balkenplan: Zeitliche Abfolge der geplanten Vorgänge/Aktivitäten im Balkendiagramm. Pfeile visualisieren die Anordnungsbeziehungen.
+
+Netzplane: Visualisierung von Abläufen und deren Abhängigkeit mit Hilfe von Knoten und Pfeilen.
+
+Meilenstein: Ein Meilenstein bezeichnet im Projektmanagement ein Ereignis mit besonderer Bedeutung für den Projektablauf. Wird durch Termin und Kriterium beschrieben.
+
+Earned Value: Der Betrag für die bisher erbrachten Leistungen, der unter Annahme der geplanten Ressourcenkosten angefallen wäre
+
+Projektorganisation: Gesamtheit der Organisationseinheiten und der aufbau- und ablauforganisatorischen Regelungen zur Abwicklung eines bestimmten Projektes.
+
+Stakeholder: Personen oder Organisationen, die ein berechtigtes Interesse am Projekt haben
+
+Abnahme (Acceptance): Die Bestätigung des Auftraggebers, dass der Auftragnehmer das vereinbarte Werk erstellt hat, wie es der Werkvertrag spezifiziert.
+
+Lastenheft: Der Auftraggeber beschreibt die geforderten Lieferungen und Leistungen des Auftragnhemners. Das Lastenheft ist Grundlage der Ausschreibung.
+
+Pflichtenheft: Die vom Auftragnehmer angebotene Leistungsbeschreibung vor der Auftragserteilung durch den Aufraggeber.
+
+Arbeitspaket (Work Package): Eine Aufgabe in einem Projekt, die von einer Organisationseinheit bis zu einem Termin mit definiertem Ergebnis und Aufwand vollbracht wird
